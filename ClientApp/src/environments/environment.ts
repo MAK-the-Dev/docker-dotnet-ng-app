@@ -11,7 +11,7 @@ export const environment = {
   // Docker HTTPS
   // appUrl: 'https://localhost:5001/'
   // Docker HTTP
-  // appUrl: 'http://localhost:5000/'
+  appUrl: 'http://localhost:5000/'
 };
 
 /*
